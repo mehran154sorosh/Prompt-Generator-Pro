@@ -1,4 +1,4 @@
-# Made by Mehran Soroush
+# Made by Mehran Sorosh
 
 Contact us:
 @
