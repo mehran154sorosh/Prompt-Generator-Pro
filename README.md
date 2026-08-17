@@ -1,4 +1,4 @@
-# Prompt-Generator-Pro
+# Prompt Generator Pro
 
 Prompt Generator Pro is a tool for creating detailed and customizable AI prompts.
 
@@ -32,6 +32,7 @@ You can export your complete style as a JSON file and upload it later to restore
 ## Requirements
 
 Node.js is required to run the project.
+An internet connection is required to load the CSS resources used by the project.
 Download Node.js from:
 https://nodejs.org/
 
@@ -39,27 +40,27 @@ https://nodejs.org/
 
 Clone the repository:
 
-```bash
+```bash id="a8h7mz"
 git clone https://github.com/mehran154sorosh/Prompt-Generator-Pro.git
 cd Prompt-Generator-Pro
 ```
 
 Open CMD or Terminal inside the project folder and install the dependencies:
 
-```bash
+```bash id="q4j5te"
 npm install
 ```
 
 Start the local development server:
 
-```bash
+```bash id="h9w3px"
 npm run dev
 ```
 
 Open the local URL shown in the terminal in your browser.
 The URL will usually look like:
 
-```text
+```text id="v8b2kc"
 http://localhost:5173
 ```
 
@@ -77,4 +78,6 @@ Contributions are welcome. If you find a bug, have a feature request, or want to
 
 This project is available for personal and educational use.
 
+## Created By
 
+Created by Mehran Sorosh
